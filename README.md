@@ -18,3 +18,4 @@
 - 💫 How to reach me: [@tanmayc07](https://github.com/tanmayc07), tanmayc32@gmail.com
 - ➰ Fun fact: Python is ❤
 
+[LinkedIn](https://www.linkedin.com/in/tanmmayy/)
