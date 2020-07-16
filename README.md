@@ -29,3 +29,5 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 😄 Pronouns: You, Me, They
 - ➰ Fun fact: Python is ❤
+
+[![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayc07)](https://github.com/anuraghazra/github-readme-stats)
