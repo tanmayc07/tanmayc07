@@ -8,8 +8,12 @@
 </a>   <a href="https://t.me/tanmmayy">
   <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>  [![HitCount](http://hits.dwyl.com/tanmayc07/tanmayc07.svg)](http://hits.dwyl.com/tanmayc07/tanmayc07)   
+
 <br />
-#### I'm a tech savvy aiming to create some wonderful applications!
+
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+ **I'm a tech savvy aiming to create some wonderful applications!**
 <!--
 **tanmayc07/tanmayc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on 
