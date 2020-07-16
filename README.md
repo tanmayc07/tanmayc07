@@ -1,16 +1,12 @@
 ### 👋 Hi there 
 
-<br/>
-
 |<a href="https://twitter.com/devtronku">
   <img align="left" alt="Shubham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>  <a href="https://www.linkedin.com/in/tanmmayy">
   <img align="left" alt="Shubham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>   <a href="https://t.me/tanmmayy">
   <img align="left" alt="Shubham's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>     ![](https://visitor-badge.glitch.me/badge?page_id=tanmayc07.tanmayc07)  
-
-<br/>
+</a>     ![](https://visitor-badge.glitch.me/badge?page_id=tanmayc07.tanmayc07)
 
 #### I'm a tech savvy aiming to create some wonderful applications!
 <!--
@@ -29,5 +25,3 @@
 - 🔱 I'm currently learning Data Science and Machine Learning
 - 💫 How to reach me: [@tanmayc07](https://github.com/tanmayc07), tanmayc32@gmail.com
 - ➰ Fun fact: Python is ❤
-
-[LinkedIn](https://www.linkedin.com/in/tanmmayy/)
