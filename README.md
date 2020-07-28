@@ -30,6 +30,6 @@
 - 😄 Pronouns: You, Me, They
 - ➰ Fun fact: Python is ❤
 
-[![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayc07)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayc07)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
