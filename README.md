@@ -33,3 +33,6 @@
 <!-- [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayc07)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</a>  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+</a>  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
