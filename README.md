@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Tanmay!! 
-|<a href="https://twitter.com/Tracer471">
-  <img align="left" alt="Tanmay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>  <a href="https://www.linkedin.com/in/tanmmayy">
+|<a href="https://www.instagram.com/_sahilambre/">
+  <img align="left" alt="Sahil's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
+  </a>  <a href="https://www.linkedin.com/in/tanmmayy">
   <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>   <a href="https://t.me/tanmmayy">
   <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
