@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Tanmay!! 
+# 👋 Hi there, I'm Tanmay!! 
 |<a href="https://www.instagram.com/tanmmayy/">
   <img align="left" alt="Tanmay's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
   </a>  <a href="https://www.linkedin.com/in/tanmmayy">
