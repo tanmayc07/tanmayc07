@@ -5,7 +5,7 @@
   <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>   <a href="https://t.me/tanmmayy">
   <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>  [![HitCount](http://hits.dwyl.com/tanmayc07/tanmayc07.svg)](http://hits.dwyl.com/tanmayc07/tanmayc07)   
+</a>    
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
