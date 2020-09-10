@@ -8,7 +8,7 @@
 </a>    
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
   
  **I'm a tech savvy aiming to create some wonderful applications!**
 <!--
