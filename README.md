@@ -11,17 +11,6 @@
   <img align="center" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
   
  **I'm a tech savvy aiming to create some wonderful applications!**
-<!--
-**tanmayc07/tanmayc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🎓 I'm currently doing Bachelors in Computer Engineering
 - 🔱 I'm currently learning Data Science and Machine Learning
@@ -32,8 +21,9 @@
 
 <!-- [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayc07)](https://github.com/anuraghazra/github-readme-stats) -->
 
-</a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact" height="300" width="400"></a>
-</a><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=tanmayc07" width="300"></a>
+
+</a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact" height="195" width="400"></a>
+</a><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=tanmayc07" width="300" height="193"></a>
 
 
 </a>  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
