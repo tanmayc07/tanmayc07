@@ -7,8 +7,9 @@
   <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>    
 <br />
-
+<p align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
+</p> 
   
  **I'm a tech savvy aiming to create some wonderful applications!**
 
