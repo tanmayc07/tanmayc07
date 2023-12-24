@@ -1,28 +1,32 @@
-# 👋 Hi there, I'm Tanmay!! 
-|<a href="https://www.instagram.com/tanmmayy/">
-  <img align="left" alt="Tanmay's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
-  </a>  <a href="https://www.linkedin.com/in/tanmmayy">
-  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>   <a href="https://t.me/tanmmayy">
-  <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>    
-<br />
+<!-- # 👋 Hi there, I'm Tanmay!! -->
+<h1 align="center">👋 Hi there, I'm Tanmay!!</h1>
+<p align="center"><b>Just a computer programmer!</b></p>
+
 <p align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" />
+  <br />
+  <br />
   
-  <b>I'm a tech savvy aiming to create some wonderful applications!</b>
+  <!-- 
+  <b>Just a computer programmer!</b> 
+  <a href="https://www.instagram.com/tanmayc07/">
+  <img alt="Tanmay's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
+  </a>  <a href="https://www.linkedin.com/in/hctanmay">
+  <img alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+  -->
   
   <ul>
-    <li>🎓 I'm currently doing Bachelors in Computer Engineering</li>
-    <li>🔱 I'm currently learning Data Science and Machine Learning</li>
-    <li>💫 How to reach me: <a href=""https://github.com/tanmayc07>@tanmayc07</a>, tanmayc32@gmail.com</li>
-    <li>🤔 I’m looking for help with Data Structures and Algorithms</li>
-    <li>😄 Pronouns: You, Me, They</li>
-    <li>➰ Fun fact: Python is ❤</li>
+    <li>🎓 I'm currently doing Master's in Computer Science from SUNY Binghamton.</li>
+    <li>🔱 I'm currently learning Haskell and GoLang.</li>
+<!--     <li>💫 How to reach me: hctanmay@gmail.com</li> -->
+    <li>💫 How to reach me: <a href="mailto:hctanmay@gmail.com">gmail</a>, <a href="https://www.linkedin.com/in/hctanmay">linkedin</a></li>
+<!--     <li>🤔 I’m looking for help with Data Structures and Algorithms</li> -->
+    <li>😄 Pronouns: He/Him</li>
+    <li>➰ Fun fact: Rabbits can swim!</li>
   </ul>
 
-  </a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact" height="195" width="400"></a>
-  </a><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=tanmayc07" width="300" height="193"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayc07&layout=compact&hide=Jupyter+Notebook,CSS,HTML" height="195" width="400"></a>
+<!-- <a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=tanmayc07" width="300" height="193"></a> -->
 </p> 
   
  
