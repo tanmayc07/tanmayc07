@@ -9,7 +9,7 @@
   
   <ul>
     <li>🎓 I'm pursuing a Master's in Computer Science from SUNY Binghamton.</li>
-    <li>🔱 I'm currently learning Haskell and GoLang.</li>
+    <li>🔱 I'm currently learning about LLMs.</li>
     <li>💫 How to reach me: <a href="mailto:hctanmay@gmail.com">gmail</a>, <a href="https://www.linkedin.com/in/hctanmay">linkedin</a></li>
     <li>😄 Pronouns: He/Him</li>
     <li>➰ Fun fact: Rabbits can swim!</li>
